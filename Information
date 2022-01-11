@@ -1,7 +1,14 @@
 TYPES OF BGM HERE
 -----------------
-bgmone :-
 
-bgmtwo :-
+bgmone :- NORMAL
 
-bgmthree :-
+bgmtwo :- AGGRESSIVE
+
+bgmthree :- TECHINICAL
+
+TYPES OF STICKERS HERE
+----------------------
+
+stickers :- EVERYTHING
+
